@@ -1,6 +1,8 @@
 # patch-roblox-cameramodule
 Module that provides access to the CameraModule API in the Roblox PlayerModule
 
+Maintained by @6ixfalls
+
 ## How to use
 * [Wally](https://wally.run/package/egomoose/patch-cameramodule)
 * [Releases](https://github.com/EgoMoose/patch-roblox-cameramodule/releases)

@@ -1,0 +1,33 @@
+{
+    "name": "@rbxts/patch-cameramodule",
+    "version": "0.2.1",
+    "main": "src/init.luau",
+    "types": "src/index.d.ts",
+    "description": "Access the CameraModule API in the Roblox PlayerModule",
+    "scripts": {
+        "test": "exit 0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/6ixfalls/rbxts-patch-cameramodule.git"
+    },
+    "author": "nomer888",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/6ixfalls/rbxts-patch-cameramodule/issues"
+    },
+    "homepage": "https://github.com/6ixfalls/rbxts-patch-cameramodule#readme",
+    "files": [
+        "src/**/*",
+        "default.project.json"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "devDependencies": {
+        "@rbxts/compiler-types": "^3.0.0-types.0",
+        "@rbxts/types": "^1.0.813",
+        "roblox-ts": "^3.0.0",
+        "typescript": "^5.6.3"
+    }
+}
