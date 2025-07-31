@@ -1,6 +1,6 @@
 {
     "name": "@rbxts/patch-cameramodule",
-    "version": "0.2.1",
+    "version": "0.2.1-ts1",
     "main": "src/init.luau",
     "types": "src/index.d.ts",
     "description": "Access the CameraModule API in the Roblox PlayerModule",
